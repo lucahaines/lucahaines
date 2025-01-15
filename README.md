@@ -1,2 +1,2 @@
 Hi, I’m @lucahaines,
-In terms of coding, I’m interested in physics and fractals
+in terms of coding, I’m interested in physics and fractals
